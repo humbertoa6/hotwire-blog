@@ -60,3 +60,6 @@ end
 
 gem 'ostruct'
 gem 'redis'
+gem 'devise'
+
+gem "inline_svg", "~> 1.10"
