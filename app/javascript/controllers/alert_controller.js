@@ -14,6 +14,7 @@ export default class extends Controller {
 
   initialize() {
     this.hide()
+    console.log("Alert controller connected")
   }
 
   connect() {

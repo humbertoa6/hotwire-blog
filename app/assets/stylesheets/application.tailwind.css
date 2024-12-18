@@ -2,3 +2,5 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 @import "forms.css";
+@import "animation.css";
+@import "slideover.css";
